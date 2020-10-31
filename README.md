@@ -27,5 +27,5 @@ I test seris of photos, and conclusion as follow:
 ## Attention.   
 I just use the official code to test.    
 I find the Dataloader build section will be seized up when run Main.py in my env, so I modified dataload method.    
-This code only for technology share, anyone who what use in illegal way will be punished by law.     
+This code only for technology share, anyone who want to use in illegal way will be punished by law.     
 Finally, thanks for Four big vegetables B provide test photos.     
