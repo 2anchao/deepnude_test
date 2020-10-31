@@ -15,7 +15,7 @@ six.
 Link: https://pan.baidu.com/s/1GCLOVcvy55RulYcViRjGQQ  secret: 1wrw
 
 ## Result.  
-The result show as follow, Left image is the origin photo, Right is the deepnude output result with added mosaic. 
+The result show as follow, Left image is the origin photo, Right is the deepnude output result with added mosaic, if you want true result, run code by youself.  
 <div align=left><img src="https://github.com/2anchao/deepnude_test/blob/main/img_show/show.jpeg" width="250" height="380"<div align=right><img src="https://github.com/2anchao/deepnude_test/blob/main/img_show/input1.jpg" width="250" height="380" /></div>. 
 
 ## Result Analysis. 
