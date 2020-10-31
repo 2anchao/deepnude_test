@@ -21,7 +21,7 @@ The result show as follow, Left image is the origin photo, Right is the deepnude
 ## Result Analysis. 
 I test seris of photos, and conclusion as follow:   
 (1) The train data is simple, maybe only have front side photo, so the other side photo can not get satisfied result.  
-(2) If the backgroud of photo is too complex, result is also worse. 
+(2) If the backgroud of photo is too complex, result is also worse.    
 (3) Deepnude has long way to go. 
 
 ## Attention.   
