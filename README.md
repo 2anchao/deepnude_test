@@ -1,2 +1,4 @@
 # deepnude_test
-使用官方提供的代码测试分析
+The source code is provide by deepnude official: https://github.com/stacklikemind/deepnude_official. 
+Out of curiosity, I test this project with Mac env.
+
