@@ -15,5 +15,5 @@ six.
 Link: https://pan.baidu.com/s/1GCLOVcvy55RulYcViRjGQQ  secret: 1wrw
 
 ## Result.  
-<div align=left><img src="https://github.com/2anchao/deepnude_test/blob/main/img_show/input1.jpg" width="250" height="380" /></div> <div align=right><img src="https://github.com/2anchao/deepnude_test/blob/main/img_show/show.jpeg" width="250" height="380" /></div>. 
+<div align=left><img src="https://github.com/2anchao/deepnude_test/blob/main/img_show/input1.jpg" width="250" height="380" <div align=right><img src="https://github.com/2anchao/deepnude_test/blob/main/img_show/show.jpeg" width="250" height="380" /></div>. 
 
