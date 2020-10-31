@@ -1,5 +1,20 @@
-# deepnude_test
+# deepnude_test.  
 The source code is provide by deepnude official: https://github.com/stacklikemind/deepnude_official.  
 Out of curiosity, I test this project in Mac env.
 
-## install env
+## install env.  
+python     
+opencv-python.   
+torch(I use CPU).   
+torchvision.    
+numpy.   
+wheel.   
+six.  
+...   
+## Test Model.  
+Link: https://pan.baidu.com/s/1GCLOVcvy55RulYcViRjGQQ  secret: 1wrw
+
+## Result.  
+<div align=center><img src="https://github.com/2anchao/deepnude_test/blob/main/img_show/input1.jpg" width="350" height="500" /></div>. 
+<div align=center><img src="https://github.com/2anchao/deepnude_test/blob/main/img_show/show.jpeg" width="350" height="500" /></div>. 
+
